@@ -16,7 +16,7 @@ class FlipCardPayment extends StatelessWidget {
           .fillBack, // Fill the back side of the card to make in the same size as the front.
       direction: FlipDirection.HORIZONTAL, // default
       front: Container(
-        height: 220,
+        height: 200,
         width: widthMain * .8,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(20),
@@ -42,7 +42,7 @@ class FlipCardPayment extends StatelessWidget {
                     Text(
                       "6038 9908\n6038 9908",
                       style: GoogleFonts.poppins(
-                        fontSize: 20,
+                        fontSize: 16,
                         fontWeight: FontWeight.w700,
                         height: 0,
                       ),

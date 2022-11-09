@@ -1,16 +1,9 @@
-# ui_practice_21_oct_2022
+# UI Practice
 
-A new Flutter project.
+Build UI from an Image from Instagram.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Search Screen  | Details Screen | Details Screen (Added to Cart) |
+| ------------- | ------------- |------------- |
+| <img src="https://raw.githubusercontent.com/Adnanbd/Qtec_task/main/assets/simulator_screenshot_9A6F401D-C850-4302-89DA-9E2FF5138A45.png" width =300 > | <img src="https://raw.githubusercontent.com/Adnanbd/Qtec_task/main/assets/simulator_screenshot_120476A2-5C50-4C80-8290-528AFB378E45.png" width =300 >  | <img src="https://raw.githubusercontent.com/Adnanbd/Qtec_task/main/assets/simulator_screenshot_75C126D2-E5A9-43BA-9249-9D3F045F5BBD.png" width =300 >  |

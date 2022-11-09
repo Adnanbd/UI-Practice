@@ -52,7 +52,7 @@ class SingleProjectPreviewTile extends StatelessWidget {
                                   Text(
                                     "EVERSPACE 2",
                                     style: GoogleFonts.poppins(
-                                      fontSize: 16,
+                                      fontSize: 14,
                                       color: Colors.white,
                                       fontWeight: FontWeight.w600,
                                     ),
@@ -75,7 +75,7 @@ class SingleProjectPreviewTile extends StatelessWidget {
                                       Text(
                                         " ROCKSTAR Games ",
                                         style: GoogleFonts.poppins(
-                                          fontSize: 14,
+                                          fontSize: 12,
                                           color: Colors.white,
                                           fontWeight: FontWeight.w600,
                                         ),
@@ -97,7 +97,7 @@ class SingleProjectPreviewTile extends StatelessWidget {
                                       Text(
                                         "  19 ",
                                         style: GoogleFonts.poppins(
-                                          fontSize: 14,
+                                          fontSize: 12,
                                           color: Colors.white,
                                           fontWeight: FontWeight.w600,
                                         ),
@@ -105,7 +105,7 @@ class SingleProjectPreviewTile extends StatelessWidget {
                                       Text(
                                         "Days Left",
                                         style: GoogleFonts.poppins(
-                                          fontSize: 14,
+                                          fontSize: 12,
                                           color: Colors.white,
                                           fontWeight: FontWeight.w400,
                                         ),
